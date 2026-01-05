@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+.venv/
+scheduler.db
+.DS_Store
+Thumbs.db
